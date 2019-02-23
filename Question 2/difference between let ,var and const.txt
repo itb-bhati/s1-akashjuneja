@@ -1,0 +1,18 @@
+var is not dead. var can still be used in ES6. Use of var may be good or bad
+depending on the situation. let and const is block scoped. We can’t use it
+outside the block in which it is defined. So, we should decide between
+these by following points:
+i) var should be used for variables that are used across various
+scopes.
+ii) let should be used where we want the variable to have a local
+block scope and where we know that the variable may be re-
+assigned.
+iii) const should be used for block scoped variables whose values
+should not change in the entire program, i.e. they should not be
+re-assigned.
+
+
+and by the way
+var is functional scope
+let and const are functional scope
+https://codeburst.io/learn-let-var-and-const-in-easiest-way-with-guarantee-e6ecf551018a
