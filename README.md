@@ -1,5 +1,3 @@
 # s1-akashjuneja
-s1-akashjuneja created by GitHub Classroom
-
-
-this is assignment 2c 
+# ASSIGNMENT PART TRANSPILERS IS UPLOADED BY WEB GUI
+# ASSIGNMENT PART ES2015 IS UPLOADED BY COMMAND LINE
