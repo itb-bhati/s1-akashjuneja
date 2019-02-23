@@ -1,0 +1,5 @@
+When we use typeof with let and const variables and the variables are
+defined before the use of typeof operator, it returns the datatype of the
+variable.
+Also, output of typeof(let) is undefined whereas of typeof(const) is Unexpected
+token const.
