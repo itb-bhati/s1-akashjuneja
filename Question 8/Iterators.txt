@@ -1,0 +1,5 @@
+8)	Iterators give us a way to iterate or loop over collection of items. Iterators are methods on iterable objects like arrays which loop over the objects and perform some specific task or return a value. Some iterators in ES6 are:
+.forEach(), .filter(), .map(), .reduce(), .findIndex()  etc.
+
+Both iterators and for-of loop iterate over the iterable objects. However, the iterators perform a specific task and we can’t even use break with them. Bit with for-of, we can define what we want to do with the data by placing our code and also, we can use break in for-of loop.
+
