@@ -1,0 +1,5 @@
+6)	Rest Parameter: Through rest parameter, we can accept any number of arguments as an array. Rest parameters are array and all the methods applicable on arrays are applicable on rest parameters too.
+
+apply(): apply() method calls a function where arguments are always provided as single array. Thus, apply() is used to make a function call, unlike the rest parameters which accept arguments in a function.
+
+arguments: arguments is an object that is used inside functions to access the arguments passed to the function. It is different from rest parameters in a way that it is not an array. However, arguments do have a length property. 
