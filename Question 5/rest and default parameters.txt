@@ -1,0 +1,8 @@
+Arguments object used to contain all the arguments that were passed to
+the function. They were mostly used when we didn’t know as to how many
+arguments will be passed to the function. However, arguments was not an
+array and most of the functions like sort, map, and iterators like forEach
+could not be applied to it. However, rest parameters are array and we can
+use such functions for these, which makes our work easier.
+Also, giving default values to arguments reduce our code compared to using
+arguments for assigning the default values.
